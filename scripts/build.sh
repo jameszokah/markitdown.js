@@ -12,8 +12,8 @@ npx tsc
 
 make -C node_modules/whisper-node-ts/lib/whisper.cpp
 
-cp \
-    node_modules/whisper-node-ts/lib/whisper.cpp/models/ggml-base.en.bin \
-    node_modules/whisper-node-ts/lib/whisper.cpp/models/openvino-conversion-requirements.txt \
-    node_modules/onnxruntime-web/dist/*.wasm \
-    dist
+# cp \
+#     node_modules/whisper-node-ts/lib/whisper.cpp/models/ggml-base.en.bin \
+#     node_modules/whisper-node-ts/lib/whisper.cpp/models/openvino-conversion-requirements.txt \
+#     node_modules/onnxruntime-web/dist/*.wasm \
+#     dist
