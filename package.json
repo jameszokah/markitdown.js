@@ -1,5 +1,5 @@
 {
-  "name": "makeitdown.js",
+  "name": "makeitdown",
   "version": "1.0.0",
   "description": "An all-in-one javaScript tool for parsing any file type to a markdown file",
   "main": "dist/index.js",
