@@ -25,7 +25,7 @@ jobs:
 
       # Step 3: Install dependencies
       - name: Install dependencies
-        run: npm ci # Clean install
+        run: npm ci --legacy-peer-deps # Clean install
 
       # Step 4: Build the package
       - name: Build the package
