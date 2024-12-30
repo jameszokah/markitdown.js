@@ -1,6 +1,6 @@
 {
   "name": "makeitdown.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An all-in-one javaScript tool for parsing any file type to a markdown file",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
